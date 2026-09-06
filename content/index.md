@@ -61,7 +61,7 @@ Modern mobile operating systems increasingly force monolithic launchers onto use
 | Resource | Description | Link |
 |---|---|---|
 | **Getting Started** | Setup instructions, default launcher selection, permissions | [Getting Started](guides/getting-started.md) |
-| **Download APK** | Official signed builds for Android 14+ (API 34-37) | [Download v1.2-beta](download.md) |
+| **Download APK** | Official signed builds for Android 14+ (API 34-37) | [Download v1.2.0](download.md) |
 | **RPDev Feed Portal** | Companion minus-one feed engine | [feed.launcher.iamrp.dev](https://feed.launcher.iamrp.dev) |
-| **Module Catalog** | Extend your minus-one screen with community modules | [repo.launcher.iamrp.dev](https://repo.launcher.iamrp.dev) |
+| **Module Catalog** | Extend your minus-one screen with community modules | [launcher.repo.iamrp.dev](https://launcher.repo.iamrp.dev) |
 | **Sovereign CDN** | Fast edge assets, OTA manifests, and logos | [cdn.iamrp.dev](https://cdn.iamrp.dev) |

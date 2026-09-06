@@ -1,6 +1,6 @@
 ---
 title: "Download RPDev Launcher"
-description: "Download the latest signed release of RPDev Launcher (v1.2-beta) for Android 14 and Android 16."
+description: "Download the latest signed release of RPDev Launcher (v1.2.0) for Android 14 and Android 16."
 ---
 
 # 📥 Download RPDev Launcher
@@ -9,11 +9,11 @@ Download the official signed release of **RPDev Launcher**.
 
 ---
 
-## 📦 Latest Release: `v1.2-beta`
+## 📦 Latest Release: `v1.2.0` (General Availability)
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Version Name** | `1.2.0-beta` |
+| **Version Name** | `1.2.0` |
 | **Version Code** | `1200` |
 | **Target SDK** | Android 16 (API 37) |
 | **Minimum SDK** | Android 14 (API 34) |
@@ -21,15 +21,17 @@ Download the official signed release of **RPDev Launcher**.
 | **Package ID** | `iamrp.dev.launcher` |
 
 ### Download Mirrors:
-- **Direct APK Download**: [https://cdn.iamrp.dev/launcher/releases/RPDev-Launcher-v1.2-beta.apk](https://cdn.iamrp.dev/launcher/releases/RPDev-Launcher-v1.2-beta.apk)
-- **GitHub Releases**: [https://github.com/RPDevs-Builds/RPDev-Launcher/releases/tag/v1.2-beta](https://github.com/RPDevs-Builds/RPDev-Launcher/releases/tag/v1.2-beta)
+- **Direct APK Download**: [https://cdn.iamrp.dev/launcher/releases/RPDev-Launcher-v1.2.0.apk](https://cdn.iamrp.dev/launcher/releases/RPDev-Launcher-v1.2.0.apk)
+- **GitHub Releases**: [https://github.com/RPDevs-Builds/RPDev-Launcher/releases/tag/v1.2.0](https://github.com/RPDevs-Builds/RPDev-Launcher/releases/tag/v1.2.0)
 
 ---
 
 ## 🛡️ Verification & Security
 Verify the authenticity of the downloaded APK using SHA-256:
 ```bash
-sha256sum RPDev-Launcher-v1.2-beta.apk
+sha256sum RPDev-Launcher-v1.2.0.apk
+# Expected SHA-256:
+41a5edb19311c8178a6c2a9b5088af13f6fded05e3aa12d2b1500ca5eaacd062
 ```
 Expected Developer Certificate Fingerprint (SHA-256):
 ```
