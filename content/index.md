@@ -42,7 +42,14 @@ Modern mobile operating systems increasingly force monolithic launchers onto use
 | ⚡ **Pixel 16 Parity** | Architectural deep dive comparing AOSP and NexusLauncher system shortcut hooks and taskbar integration. | [Pixel Parity](architecture/decompiled-pixel-parity.md) |
 | 🏗️ **Lean Architecture** | Architectural rationale explaining why keeping the launcher lean and modular creates a superior experience. | [Lean Philosophy](architecture/lean-philosophy.md) |
 
+> [!tip] Official Sub-Project Companion: RPDev Feed (`feed.launcher.iamrp.dev`)
+> **RPDev Feed** is the sovereign minus-one screen companion engineered exclusively as a modular sub-project to RPDev Launcher. Docking seamlessly via Android's high-speed AIDL IPC bridge (`WINDOW_OVERLAY`), it provides extensible cards, weather telemetry, and private RSS syndication without bloating the core launcher process.
+> - **Companion Portal**: [feed.launcher.iamrp.dev ↗](https://feed.launcher.iamrp.dev)
+> - **Architecture & AIDL Bridge**: [Feed Integration Guide](features/feed-integration.md)
+> - **Card Modules & Schemas**: [RPDev Feed Modules on wiki.iamrp.dev ↗](https://wiki.iamrp.dev/modules/)
+
 ---
+
 
 ## 📸 Android 16 Showcase (DevPixel16)
 
